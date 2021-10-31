@@ -9,6 +9,7 @@ Some functions:
 - Loop sleep 1 hour to scan new file an upload
 - Retry when connection is error
 - Resume upload a file if remote file smaller than local file
+- Source file from 001...007 is step by step from very simple to complete this program
 
 This is simple program for my work, so it's not designed nice UI!
 
