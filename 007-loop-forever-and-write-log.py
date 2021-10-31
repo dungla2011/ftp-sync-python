@@ -353,7 +353,7 @@ while True:  # Event Loop
     # else:
     #     print(event, values)
 
-    elif event == tray.key:
+    if event == tray.key:
             sg.cprint(f'System Tray Event = ', values[event], c='white on red')
             event = values[event]       # use the System Tray's event as if was from the window
 
@@ -362,7 +362,7 @@ while True:  # Event Loop
 
     # tray.show_message(title=event, message=values)
 
-    elif event in ('Show Window', sg.EVENT_SYSTEM_TRAY_ICON_DOUBLE_CLICKED):
+    if event in ('Show Window', sg.EVENT_SYSTEM_TRAY_ICON_DOUBLE_CLICKED):
         window.un_hide()
         window.bring_to_front()
     elif event in ('Hide Window', sg.WIN_CLOSE_ATTEMPTED_EVENT):
