@@ -1,13 +1,13 @@
 # ftp-sync-python
 
-**A way to safe your data, avoid lost data by Virus, Randsomeware** 
+**A way to safe your data, avoid lost data by Virus, Randsomware** 
 
 Very simple FTP client, sync folder to FTP server, use python, opensource
 
 I find many soft to sync file to FTP Server, but all seem not free. So I make one to my need.
 
-I use this to backup my PC to an FTP server. I'am afraid of Virus, Ransomeware, it may be attack my PC, so backup to remote server is a good way to safe data!
-I saw some people who are victim of virus, ransomeware... hacker required pay money to decrypt data... it's really a nighmare
+I use this to backup my PC to an FTP server. I'am afraid of Virus, Ransomware, it may be attack my PC, so backup to remote server is a good way to safe data!
+I saw some people who are victim of virus, ransomware... hacker required pay money to decrypt data... it's really a nighmare
 
 Some functions:
 - Upload a folder automatically to FTP server
