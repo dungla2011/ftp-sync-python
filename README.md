@@ -2,7 +2,7 @@
 
 **A way to safe your data, avoid lost data by Virus, Randsomware** 
 
-I find many soft to sync file to FTP Server, but all are not free and ofcourse no source code. So I make one to my need.
+I find many softs to sync file to FTP Server, but all are not free and ofcourse no source code. So I make one to my need.
 
 I use this to backup my PC to an FTP server. I'am afraid of Virus, Ransomware, it may be attack my PC, so backup to remote server is a good way to safe data!
 I saw some people who are victim of virus, ransomware... hacker required pay money to decrypt data... it's really a nighmare.
