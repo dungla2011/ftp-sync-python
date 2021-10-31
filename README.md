@@ -1,6 +1,6 @@
 # ftp-sync-python
 
-** A way to safe your data, avoid lost data by Virus, Randsomeware ** 
+**A way to safe your data, avoid lost data by Virus, Randsomeware** 
 
 Very simple FTP client, sync folder to FTP server, use python, opensource
 
