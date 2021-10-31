@@ -17,6 +17,7 @@ This is simple program for my work, so it's not designed a nice UI!
 
 
 **The story**
+
 I find many softwares to sync file to FTP Server (or other server like google, s3 amazon), but all are not free and ofcourse no source code. 
 So I make one to my need. I use this to backup my PC to a FTP server. 
 
