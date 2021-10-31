@@ -1,6 +1,6 @@
 # ftp-sync-python
 
-**A way to safe your data, avoid lost data by Virus, Randsomware** 
+**Opensource, A way to safe your data, avoid lost data by Virus, Randsomware** 
 
 I find many softs to sync file to FTP Server (or other server like google, s3 amazon), but all are not free and ofcourse no source code. 
 So I make one to my need. I use this to backup my PC to an FTP server. 
