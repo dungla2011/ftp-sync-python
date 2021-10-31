@@ -2,12 +2,13 @@
 
 **A way to safe your data, avoid lost data by Virus, Randsomware** 
 
-I find many softs to sync file to FTP Server, but all are not free and ofcourse no source code. So I make one to my need.
+I find many softs to sync file to FTP Server (or other server like google, s3 amazon), but all are not free and ofcourse no source code. 
+So I make one to my need. I use this to backup my PC to an FTP server. 
 
-I use this to backup my PC to an FTP server. I'am afraid of Virus, Ransomware, it may be attack my PC, so backup to remote server is a good way to safe data!
-I saw some people who are victim of virus, ransomware... hacker required pay money to decrypt data... it's really a nighmare.
+I'am afraid of Virus, Ransomware, it may be attack my PC, so backup to remote server is a good way to safe data!
+I saw some people who are victim of virus, ransomware encrypted data ... hacker required pay money to decrypt data... it's really a nightmare.
 
-I keep all my data of my PC more than 20 years to now. I alway think about the case if my HDD is die, then what data will be lost, so I research many way to backup. This tool is belong series of tool in my backup system. I will update here when I have time to complete other documents about backup (it will be: Build ftp server, use Veeam Software...)
+I keep all my data of my PC more than 20 years to now. I always think about the case if my HDD is die, then data will be lost, so I research many way to backup. This tool is belong series of tool in my backup system. I will update here when I have time to complete other documents about backup (it will be: Build ftp server, use Veeam Software...)
 
 Some functions:
 - Upload a folder automatically to FTP server
