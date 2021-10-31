@@ -1,0 +1,9 @@
+requests>=2.3.0
+six>=1.7.3
+
+[sso]
+pyOpenSSL
+lxml
+
+[sso:sys_platform == "win32"]
+pywin32
