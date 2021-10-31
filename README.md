@@ -16,6 +16,8 @@ Some functions:
 - Retry when connection is error
 - Resume upload a file if remote filesize smaller than local filesize
 - Source code file from 001...007... is step by step from very simple to complete this program
+- Minizime to TrayIcon
+- Python, so cross platform? It can build and run on Linux, MacOS? I only build and run on Windows
 
 This is simple program for my work, so it's not designed a nice UI!
 
